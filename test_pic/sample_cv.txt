@@ -1,0 +1,16 @@
+Name: Mahmoud Alkhatib  
+Email: mahmoud@example.com
+
+Experience:
+- Web Developer at a startup for 2 years.
+- Internship at a software company for 6 months.
+
+Skills:
+- HTML, CSS, JavaScript
+- Python, FastAPI
+- Git, GitHub
+- SQL
+
+Certificates:
+- Full Stack Web Development - Udemy
+- Advanced Python Certificate - Coursera
